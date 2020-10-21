@@ -1,16 +1,30 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Emil Westin and I live in Uppsala Sweden, north of the capital Stockholm.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+## My favorite topics
+I'm interested in statistics and data science. 
 
-What else do you need?
+## My tools
+- R (3+ years, advanced level)
+- Python (3 years, comfortable level)
+- SQL (fundamental level)
+- Java, C# (4-5 years, comfortable level)
+- Bash, unix/linux, regex (7 years, advanced level)
 
-### My story
+I like R and tidyverse for manipulating data and ggplot for graphing. 
+Python is great for machine learning with scikit-learn
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## My Education
+- MSSc Statistics (Uppsala University)
+- BSSc Statisctis (Uppsala University)
+- B.A. Computational statistics (Uppsala University)
+
+Apart from this, I've also studied 120 credits in Spanish, having lived in Barcelona for over a year I also wrote a thesis in Spanish about the attitudes towards Catalan in the region.
+
+## My experience
+- 2016-2020: Computational linguist at Cerence Inc, Nuance Communications and ReadSpeaker
+- Currently: looking for data science or statistics jobs in Sweden
