@@ -22,7 +22,7 @@ Python is great for machine learning with scikit-learn
 I hold three different degrees (480 ects) at Uppsala University:
 - MSSc Statistics 
 - BSSc Statisctis 
-- B.A. Computational statistics 
+- B.A. Computational linguistics
 
 Apart from this, I've also studied 120 credits in Spanish at Linköping University et. al.  
 Having lived in Barcelona for over a year I also wrote a thesis in Spanish about the attitudes towards Catalan in the region.
