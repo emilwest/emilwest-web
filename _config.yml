@@ -27,7 +27,6 @@ navbar-links:
 #avatar: "/assets/img/avatar-icon.png"
 avatar: "/assets/img/emil-1.jpg"
 
-header: "/assets/img/bgimage.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
