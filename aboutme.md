@@ -8,7 +8,7 @@ My name is Emil Westin and I live in Uppsala Sweden, north of the capital Stockh
 ##  <i class="fa fa-book fa-stack-1x" ></i> My favorite topics
 I'm interested in statistics and data science. 
 
-##  <i class="fa fa-book fa-terminal-1x fa-inverse" ></i> My tools
+##  <i class="fa fa-book fa-terminal-1x" ></i> My tools
 - R (3+ years, advanced level)
 - Python (3 years, comfortable level)
 - <i class="fa fa-database" aria-hidden="true"></i> SQL (fundamental level)
@@ -19,14 +19,13 @@ I like R and tidyverse for manipulating data and ggplot for graphing.
 Python is great for machine learning with scikit-learn
 
 ## My Education
-I hold three different degrees (480 ects) at Uppsala University:
+I hold three different degrees at Uppsala University:
 - <i class="fa fa-bar-chart" aria-hidden="true"></i> MSSc Statistics 
 - <i class="fa fa-bar-chart" aria-hidden="true"></i> BSSc Statisctis 
 - <i class="fa fa-desktop" aria-hidden="true"></i> B.A. Computational linguistics
 
 Apart from this, I've also studied 120 credits in Spanish at Linköping University et. al.  
 Having lived in Barcelona for over a year I also wrote a thesis in Spanish about the attitudes towards Catalan in the region.
-
 
 ## My experience
 - 2016-2020: Computational linguist at Cerence Inc, Nuance Communications and ReadSpeaker
