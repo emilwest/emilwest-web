@@ -11,7 +11,7 @@ I'm interested in statistics and data science.
 ##  <i class="fa fa-book fa-terminal-1x fa-inverse" ></i> My tools
 - R (3+ years, advanced level)
 - Python (3 years, comfortable level)
-- SQL (fundamental level)
+- <i class="fa fa-database" aria-hidden="true"></i> SQL (fundamental level)
 - Java, C# (4-5 years, comfortable level)
 - Bash, unix/linux, regex (7 years, advanced level)
 
@@ -20,9 +20,9 @@ Python is great for machine learning with scikit-learn
 
 ## My Education
 I hold three different degrees (480 ects) at Uppsala University:
-- MSSc Statistics 
-- BSSc Statisctis 
-- B.A. Computational linguistics
+- <i class="fa fa-bar-chart" aria-hidden="true"></i> MSSc Statistics 
+- <i class="fa fa-bar-chart" aria-hidden="true"></i> BSSc Statisctis 
+- <i class="fa fa-desktop" aria-hidden="true"></i> B.A. Computational linguistics
 
 Apart from this, I've also studied 120 credits in Spanish at Linköping University et. al.  
 Having lived in Barcelona for over a year I also wrote a thesis in Spanish about the attitudes towards Catalan in the region.
