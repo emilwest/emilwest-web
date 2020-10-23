@@ -1,5 +1,5 @@
 <!-- TODO this file has become a mess, refactor it -->
-
+<script src="assets/js/particles.js"></script>
 {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
 
 {% if page.cover-img or page.title %}
@@ -92,5 +92,8 @@
 
 
 {% else %}
-<div class="intro-header"></div>
+<div class="intro-header">
+
+<div id="particles-js"></div>
+</div>
 {% endif %}
