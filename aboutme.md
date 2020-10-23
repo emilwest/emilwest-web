@@ -6,7 +6,7 @@ title: About me
 My name is Emil Westin and I live in Uppsala Sweden, north of the capital Stockholm.
 
 In my free time, I like to work out. I think health is very important! 
-I participate regularly in Uppsla Running Club (Löparklubben) and try to run 30k a week on average. 
+I participate regularly in Uppsala Running Club (Löparklubben) and try to run 30k a week on average. 
 Recently I've started to enjoy cooking, I find it fun to experiment with different ingredients and turn it into something delicious. 
 
 ##  <i class="fa fa-heart" aria-hidden="true"></i> My favorite topics
