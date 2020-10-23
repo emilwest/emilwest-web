@@ -20,8 +20,8 @@ Python is great for machine learning with scikit-learn
 
 ## My Education
 I hold three different degrees at Uppsala University:
-- <i class="fa fa-bar-chart" aria-hidden="true"></i> MSSc Statistics 
-- <i class="fa fa-bar-chart" aria-hidden="true"></i> BSSc Statisctis 
+- <i class="fa fa-bar-chart" aria-hidden="true" color="black"></i> MSSc Statistics 
+- <i class="fa fa-bar-chart" aria-hidden="true" color="black"></i> BSSc Statisctis 
 - <i class="fa fa-desktop" aria-hidden="true"></i> B.A. Computational linguistics
 
 Apart from this, I've also studied 120 credits in Spanish at Linköping University et. al.  
