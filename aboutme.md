@@ -5,7 +5,7 @@ title: About me
 
 My name is Emil Westin and I live in Uppsala Sweden, north of the capital Stockholm.
 
-##  <i class="fa fa-book fa-stack-1x fa-inverse" ></i> My favorite topics
+##  <i class="fa fa-book fa-stack-1x" ></i> My favorite topics
 I'm interested in statistics and data science. 
 
 ##  <i class="fa fa-book fa-terminal-1x fa-inverse" ></i> My tools
@@ -31,3 +31,7 @@ Having lived in Barcelona for over a year I also wrote a thesis in Spanish about
 ## My experience
 - 2016-2020: Computational linguist at Cerence Inc, Nuance Communications and ReadSpeaker
 - Currently: looking for data science or statistics jobs in Sweden
+
+## Other
+
+- <i class="fa fa-id-card-o" aria-hidden="true"></i> Swedish drivers licence (B)
