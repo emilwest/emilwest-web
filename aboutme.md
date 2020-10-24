@@ -33,7 +33,7 @@ Having lived in Barcelona for over a year I also wrote a thesis in Spanish about
 
 ## Other
 
-<ul>
-<i class="fa fa-id-card-o" aria-hidden="true"></i> Swedish drivers license (B)
-&#x26BD; Hobbies: running, working out, reading, languages, cooking and all sorts of challanges.
+<ul style="list-style-type:none;">
+  <li><i class="fa fa-id-card-o" aria-hidden="true"></i> Swedish drivers license (B)</li>
+  <li>&#x26BD; Hobbies: running, working out, reading, languages, cooking and all sorts of challanges.</li>
 </ul>
