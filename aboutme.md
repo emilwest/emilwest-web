@@ -5,10 +5,10 @@ title: About me
 
 My name is Emil Westin and I live in Uppsala Sweden, north of the capital Stockholm.
 
-##  <i class="fa fa-heart" aria-hidden="true"></i> My favorite topics
+##  My favorite topics
 I'm interested in statistics and data science. 
 
-##  <i class="fa fa-terminal" aria-hidden="true"></i> My tools
+##  My tools
 - R (3+ years, advanced level)
 - Python (3 years, comfortable level)
 - <i class="fa fa-database" aria-hidden="true"></i> SQL (fundamental level)
@@ -34,4 +34,4 @@ Having lived in Barcelona for over a year I also wrote a thesis in Spanish about
 ## Other
 
 - <i class="fa fa-id-card-o" aria-hidden="true"></i> Swedish drivers license (B)
-- Hobbies: running, working out, reading, languages, cooking and all sorts of challanges.
+- &#x26BD; Hobbies: running, working out, reading, languages, cooking and all sorts of challanges.
