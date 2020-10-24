@@ -5,10 +5,6 @@ title: About me
 
 My name is Emil Westin and I live in Uppsala Sweden, north of the capital Stockholm.
 
-In my free time, I like to work out. I think health is very important! 
-I participate regularly in Uppsala Running Club (Löparklubben) and try to run 30k a week on average. 
-Recently I've started to enjoy cooking, I find it fun to experiment with different ingredients and turn it into something delicious. 
-
 ##  <i class="fa fa-heart" aria-hidden="true"></i> My favorite topics
 I'm interested in statistics and data science. 
 
@@ -38,3 +34,4 @@ Having lived in Barcelona for over a year I also wrote a thesis in Spanish about
 ## Other
 
 - <i class="fa fa-id-card-o" aria-hidden="true"></i> Swedish drivers license (B)
+- Hobbies: running, working out, reading, languages, cooking and all sorts of challanges.
