@@ -11,7 +11,7 @@ I'm interested in statistics and data science.
 ##  My tools
 - R (3+ years, advanced level)
 - Python (3 years, comfortable level)
-- <i class="fa fa-database" aria-hidden="true"></i> SQL (fundamental level)
+- SQL (fundamental level)
 - Java, C# (4-5 years, comfortable level)
 - Bash, unix/linux, regex (7 years, advanced level)
 
