@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-cover-img: [{"/assets/img/brooklyn_blue.jpg" : "Brooklyn Bridge (2015)"}, {"/assets/img/xian-house.jpg" : "Xi'an (2014)"}, {"/assets/img/tianamen.JPG" : "Beijing (2014)"}, {"/assets/img/gamla_lkpg.jpg" : "Gamla Linköping, in my home town (2014)"}, {"/assets/img/madrid-1.jpg" : "Madrid (2015)"}]
+cover-img: [{"/assets/img/brooklyn_blue.jpg" : "Brooklyn Bridge (2015)"}, {"/assets/img/xian-house.jpg" : "Xi'an (2014)"}, {"/assets/img/tianamen.JPG" : "Beijing (2014)"}, {"/assets/img/gamla_lkpg.jpg" : "Gamla Linköping, in my home town (2014)"}]
 ---
 
 My name is Emil Westin and I live in Uppsala Sweden, north of the capital Stockholm.
