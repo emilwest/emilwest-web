@@ -23,7 +23,7 @@ Python is great for machine learning with scikit-learn
 I hold three different degrees at Uppsala University:
 <ul style="list-style-type:none;">
   <li> <i class="fa fa-bar-chart" aria-hidden="true" style="color:black"></i> MSSc Statistics </li>
-  <li> <i class="fa fa-bar-chart" aria-hidden="true" style="color:black"></i> BSSc Statisctis </li>
+  <li> <i class="fa fa-bar-chart" aria-hidden="true" style="color:black"></i> BSSc Statistics </li>
   <li> <i class="fa fa-desktop" aria-hidden="true"></i> B.A. Computational linguistics </li>
 </ul>
 
