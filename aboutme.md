@@ -31,7 +31,8 @@ Apart from this, I've also studied 120 credits in Spanish at Linköping Universi
 Having lived in Barcelona for over a year I also wrote a thesis in Spanish about the attitudes towards Catalan in the region.
 
 ## My experience
-- 2016-2020: Computational linguist at Cerence Inc, Nuance Communications and ReadSpeaker
+- 2020-currently: Statistician
+- 2016-2020: Computational linguist 
 - Currently: looking for data science or statistics jobs in Sweden
 
 ## Other
