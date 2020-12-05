@@ -33,7 +33,6 @@ Having lived in Barcelona for over a year I also wrote a thesis in Spanish about
 ## My experience
 - 2020-currently: Statistician
 - 2016-2020: Computational linguist 
-- Currently: looking for data science or statistics jobs in Sweden
 
 ## Other
 
