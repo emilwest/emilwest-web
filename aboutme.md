@@ -7,17 +7,16 @@ cover-img: [{"/assets/img/brooklyn_blue.jpg" : "Brooklyn Bridge (2015)"}, {"/ass
 My name is Emil Westin and I live in Uppsala Sweden, north of the capital Stockholm.
 
 ##  My favorite topics
-I'm interested in statistics and data science. 
+I'm interested in statistics and data science. I like to explore and learn new R libraries and techniques and document my results at my github page [stats_notes](https://github.com/emilwest/stats_notes).
 
 ##  My tools
-- R (3+ years, advanced level)
+- R (4+ years, advanced level)
 - Python (3 years, comfortable level)
 - SQL (fundamental level)
-- Java, C# (4-5 years, comfortable level)
+- Java, C# (comfortable level)
 - Bash, unix/linux, regex (7 years, advanced level)
 
 I like R and tidyverse for manipulating data and ggplot for graphing. 
-Python is great for machine learning with scikit-learn
 
 ## My Education
 I hold three different degrees at Uppsala University:
