@@ -16,7 +16,7 @@ I'm interested in statistics and data science. I like to explore and learn new R
 - Java, C# (comfortable level)
 - Bash, unix/linux, regex (7 years, advanced level)
 
-I also use a lot of Excel, Word and good old Notepad++ in my daily work.
+I also use a lot of Excel, Word, git and good old Notepad++ in my daily work.
 
 ## My Education
 I hold three different degrees at Uppsala University:
