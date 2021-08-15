@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-cover-img: [{"/assets/img/brooklyn_blue.jpg" : "Brooklyn Bridge (2015)"}, {"/assets/img/xian-house.jpg" : "Xi'an (2014)"}, {"/assets/img/tianamen.JPG" : "Beijing (2014)"}, {"/assets/img/gamla_lkpg.jpg" : "Gamla Linköping, in my home town (2014)"}]
+cover-img: [{"/assets/img/brooklyn_blue.jpg" : "Brooklyn Bridge (2015)"}, {"/assets/img/xian-house.jpg" : "Xi'an (2014)"}, {"/assets/img/gamla_lkpg.jpg" : "Gamla Linköping, in my home town (2014)"}]
 ---
 
 My name is Emil Westin and I live in Uppsala Sweden, north of the capital Stockholm.
@@ -30,9 +30,9 @@ I hold three different degrees at Uppsala University:
 Apart from this, I've also studied 120 credits in Spanish at Linköping University et. al.  
 Having lived in Barcelona for over a year I also wrote a thesis in Spanish about the attitudes towards Catalan in the region.
 
-## My experience
-- 2020-currently: Statistician
-- 2016-2020: Computational linguist 
+## My professional experience
+- 2020-currently: Full-time Statistician
+- 2016-2020: Computational linguist at Cerence Inc/Nuance Communications as independent contractor via Appen Ltd, ReadSpeaker.
 
 ## Other
 
