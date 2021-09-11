@@ -7,9 +7,11 @@ cover-img: [{"/assets/img/brooklyn_blue.jpg" : "Brooklyn Bridge (2015)"}, {"/ass
 My name is Emil Westin and I live in Uppsala Sweden, north of the capital Stockholm.
 
 ##  My favorite topics
+
 I'm interested in statistics and data science. I like to explore and learn new R libraries and techniques and document my results at my github page [stats_notes](https://github.com/emilwest/stats_notes).
 
 ##  My tools
+
 - R (4+ years, advanced level)
 - Python (3 years, comfortable level)
 - SQL (fundamental level)
@@ -19,6 +21,7 @@ I'm interested in statistics and data science. I like to explore and learn new R
 I also use a lot of Excel, Word, git and good old Notepad++ in my daily work.
 
 ## My Education
+
 I hold three different degrees at Uppsala University:
 <ul style="list-style-type:none;">
   <li> <i class="fa fa-bar-chart" aria-hidden="true" style="color:black"></i> MSSc Statistics </li>
@@ -30,6 +33,7 @@ Apart from this, I've also studied 120 credits in Spanish at Linköping Universi
 Having lived in Barcelona for over a year I also wrote a thesis in Spanish about the attitudes towards Catalan in the region.
 
 ## My professional experience
+
 - 2020-currently: Full-time Statistician
 - 2016-2020: Computational linguist at Cerence Inc/Nuance Communications as independent contractor via Appen Ltd, ReadSpeaker.
 
