@@ -78,3 +78,25 @@ Having lived in Barcelona for over a year I also wrote a thesis in Spanish about
   </li>
 </ul>
 
+
+## Contact
+
+You can also send me a quick message using the form below:
+
+<form action="https://formspree.io/emilwestin@gmail.com" method="POST" class="form" id="contact-form">
+  <div class="row">
+    <div class="col-6">
+      <input type="email" name="_replyto" required="required" class="form-control form-control-lg" placeholder="Email" title="Email">
+    </div>
+    <div class="col-6">
+      <input type="text" name="name" class="form-control form-control-lg" placeholder="Name" title="Name">
+    </div>
+  </div>
+  <input type="hidden" name="_subject" value="New submission from emilwest.github.io">
+  <textarea type="text" name="content" class="form-control form-control-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
+  <input type="text" name="_gotcha" style="display:none">
+  <input type="hidden" name="_next" value="?message=Your message was sent successfully, thanks!" />
+ 
+  <button type="submit" class="btn btn-lg btn-primary">Submit</button>
+</form>
+
