@@ -15,8 +15,7 @@ author: Emil Westin
 
 navbar-links:
   About Me: "aboutme"
-  Projects:
-    - Open source contributions: "opensourcecontr"
+  Projects: "Projects"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
