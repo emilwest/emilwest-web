@@ -38,7 +38,7 @@ Having lived in Barcelona for over a year I also wrote a thesis in Spanish about
 <ul style="list-style-type:none;">
   <li> <i class="fa fa-id-card-o" aria-hidden="true"></i> Swedish drivers license (B) </li>
   <li> <i class="fa fa-futbol-o" aria-hidden="true"></i> Hobbies:
-    <ul>
+    <ul style="list-style-type:none;">
       <li> <i class="fas fa-running" aria-hidden="true"></i> Running (check me out on strava if you like): <br> 
       <iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/23884215/activity-summary/2e41541c4f247378885337ba12e550555c246b3a'></iframe>
       </li>
