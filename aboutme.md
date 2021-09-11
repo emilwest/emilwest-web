@@ -83,7 +83,7 @@ Having lived in Barcelona for over a year I also wrote a thesis in Spanish about
 
 You can also send me a quick message using the form below:
 
-<form action="https://formspree.io/emilwestin@gmail.com" method="POST" class="form" id="contact-form">
+<form action="https://formspree.io/f/meqvnjqo" method="POST" class="form" id="contact-form">
   <div class="row">
     <div class="col-6">
       <input type="email" name="_replyto" required="required" class="form-control form-control-lg" placeholder="Email" title="Email">
