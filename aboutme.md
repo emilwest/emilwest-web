@@ -38,8 +38,14 @@ Having lived in Barcelona for over a year I also wrote a thesis in Spanish about
 <ul style="list-style-type:none;">
   <li> <i class="fa fa-id-card-o" aria-hidden="true"></i> Swedish drivers license (B) </li>
   <li> <i class="fa fa-futbol-o" aria-hidden="true"></i> Hobbies:
-    <li>  Fitness: </li>
-    Hobbies: running, working out, reading, languages, cooking and all sorts of challanges. 
+    <ul>
+      <li> Running </li>
+      <li> Strength training </li>
+      <li> Reading </li>
+      <li> Learning languages </li>
+      <li> Cooking </li>
+      <li> All sorts of challanges </li>
+    </ul>
   </li>
 </ul>
 
