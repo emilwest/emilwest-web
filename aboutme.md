@@ -43,7 +43,7 @@ Having lived in Barcelona for over a year I also wrote a thesis in Spanish about
       <iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/23884215/activity-summary/2e41541c4f247378885337ba12e550555c246b3a'></iframe>
       </li>
       <li> <i class="fas fa-dumbbell" aria-hidden="true"></i> Strength training </li>
-      <li> <i class="fas fa-book-open" aria-hidden="true"></i>Reading: <br>
+      <li> <i class="fas fa-book-open" aria-hidden="true"></i> Reading: <br>
 <div id="gr_challenge_11650" style="border: 2px solid #EBE8D5; border-radius:10px; padding: 0px 7px 0px 7px; max-width:230px; min-height: 100px">
   <div id="gr_challenge_progress_body_11650" style="font-size: 12px; font-family: georgia,serif;line-height: 18px">
     <h3 style="margin: 4px 0 10px; font-weight: normal; text-align: center">
