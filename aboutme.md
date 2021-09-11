@@ -81,7 +81,7 @@ Having lived in Barcelona for over a year I also wrote a thesis in Spanish about
 
 ## Contact
 
-You can also send me a quick message using the form below:
+You can <a href="mailto:emilwestin@gmail.com?subject=Hello from emilwest.github.io">email me</a> or send me a quick message using the form below:
 
 <form action="https://formspree.io/f/meqvnjqo" method="POST" class="form" id="contact-form">
   <div class="row">
