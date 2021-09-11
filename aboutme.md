@@ -39,7 +39,7 @@ Having lived in Barcelona for over a year I also wrote a thesis in Spanish about
   <li> <i class="fa fa-id-card-o" aria-hidden="true"></i> Swedish drivers license (B) </li>
   <li> <i class="fa fa-futbol-o" aria-hidden="true"></i> Hobbies:
     <ul>
-      <li> Running </li>
+      <li> <i class="fas fa-running-o" aria-hidden="true"></i> Running </li>
       <li> Strength training </li>
       <li> Reading </li>
       <li> Learning languages </li>
