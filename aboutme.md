@@ -39,3 +39,9 @@ Having lived in Barcelona for over a year I also wrote a thesis in Spanish about
   <li> <i class="fa fa-id-card-o" aria-hidden="true"></i> Swedish drivers license (B) </li>
   <li> <i class="fa fa-futbol-o" aria-hidden="true"></i> Hobbies: running, working out, reading, languages, cooking and all sorts of challanges. </li>
 </ul>
+
+## Running
+
+Follow me on Strava!
+
+<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/23884215/activity-summary/2e41541c4f247378885337ba12e550555c246b3a'></iframe>
