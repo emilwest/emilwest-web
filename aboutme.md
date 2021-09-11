@@ -71,9 +71,9 @@ Having lived in Barcelona for over a year I also wrote a thesis in Spanish about
 	<script src="https://www.goodreads.com/user_challenges/widget/58205284-emil?challenge_id=11650&v=2"></script>
 </div>
       </li>
-      <li> Learning languages </li>
-      <li> Cooking </li>
-      <li> All sorts of challanges </li>
+      <li> <i class="fas fa-language" aria-hidden="true"></i> Learning languages </li>
+      <li> <i class="fas fa-utensils" aria-hidden="true"></i> Cooking </li>
+      <li> <i class="fas fa-flag-checkered" aria-hidden="true"></i> All sorts of challanges </li>
     </ul>
   </li>
 </ul>
