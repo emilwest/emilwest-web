@@ -36,6 +36,7 @@ Having lived in Barcelona for over a year I also wrote a thesis in Spanish about
 
 - 2020-currently: Full-time Statistician
 - 2016-2020: Computational linguist at Cerence Inc/Nuance Communications as independent contractor via Appen Ltd, ReadSpeaker.
+- Before this, I've worked quite a lot extra during my studies in a variety of jobs: as a mailman, as a warehouse worker, as a butcher (!) and as a telemarketer. These jobs gave my a lot of important lessons on discipline and working hard.
 
 ## Other
 
