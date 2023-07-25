@@ -12,11 +12,13 @@ I'm interested in statistics and data science. I like to explore and learn new R
 
 ##  My tools
 
-- R (4+ years, advanced level)
-- Python (3 years, comfortable level)
+- R (7+ years, advanced level)
+- Bash, unix/linux, regex (10 years, advanced level)
+- Python (5 years, comfortable level)
 - SQL (fundamental level)
 - Java, C# (comfortable level)
-- Bash, unix/linux, regex (7 years, advanced level)
+
+Currently learning: C++ and Rcpp.
 
 I also use a lot of Excel, Word, git and good old Notepad++ in my daily work.
 
@@ -34,7 +36,8 @@ Having lived in Barcelona for over a year I also wrote a thesis in Spanish about
 
 ## My professional experience
 
-- 2020-currently: Full-time Statistician
+- 2023-currently: Full-time Data scientist
+- 2020-2023: Full-time Statistician
 - 2016-2020: Computational linguist at Cerence Inc/Nuance Communications as independent contractor via Appen Ltd, ReadSpeaker.
 - Before this, I've worked quite a lot extra during my studies in a variety of jobs: as a mailman, as a warehouse worker, as a butcher (!) and as a telemarketer. These jobs gave my a lot of important lessons on discipline and working hard.
 
@@ -54,6 +57,191 @@ Having lived in Barcelona for over a year I also wrote a thesis in Spanish about
     <h3 style="margin: 4px 0 10px; font-weight: normal; text-align: center">
       <a style="text-decoration: none; font-family:georgia,serif;font-style:italic; font-size: 1.1em" rel="nofollow" href="https://www.goodreads.com/challenges/11650-2021-reading-challenge">2021 Reading Challenge</a>
     </h3>
+    
+<div id="gr_challenge_11633" style="border: 2px solid #EBE8D5; border-radius:10px; padding: 0px 7px 0px 7px; max-width:230px; min-height: 100px">
+  <div id="gr_challenge_progress_body_11633" style="font-size: 12px; font-family: georgia,serif;line-height: 18px">
+    <h3 style="margin: 4px 0 10px; font-weight: normal; text-align: center">
+      <a style="text-decoration: none; font-family:georgia,serif;font-style:italic; font-size: 1.1em" rel="nofollow" href="https://www.goodreads.com/challenges/11633-2023-reading-challenge">2023 Reading Challenge</a>
+    </h3>
+
+      <!-- Show static HTML/CSS as a placeholder in case js is not enabled - javascript include will override this if things work -->
+      <style type="text/css" media="screen">
+  .gr_custom_container_ {
+    /* customize your Goodreads widget container here*/
+    border: 1px solid gray;
+    border-radius:10px;
+    padding: 10px 5px 10px 5px;
+    background-color: #FFF;
+    color: #000;
+    width: 300px
+  }
+  .gr_custom_header_ {
+    /* customize your Goodreads header here*/
+    border-bottom: 1px solid gray;
+    width: 100%;
+    margin-bottom: 5px;
+    text-align: center;
+    font-size: 120%
+  }
+  .gr_custom_each_container_ {
+    /* customize each individual book container here */
+    width: 100%;
+    clear: both;
+    margin-bottom: 10px;
+    overflow: auto;
+    padding-bottom: 4px;
+    border-bottom: 1px solid #aaa;
+  }
+  .gr_custom_book_container_ {
+    /* customize your book covers here */
+    overflow: hidden;
+    height: 60px;
+      float: left;
+      margin-right: 4px;
+      width: 39px;
+  }
+  .gr_custom_author_ {
+    /* customize your author names here */
+    font-size: 10px;
+  }
+  .gr_custom_tags_ {
+    /* customize your tags here */
+    font-size: 10px;
+    color: gray;
+  }
+  .gr_custom_rating_ {
+    /* customize your rating stars here */
+    float: right;
+  }
+</style>
+
+      <div id="gr_custom_widget_">
+          <div class="gr_custom_container_">
+    <h2 class="gr_custom_header_">
+    <a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/58205284-emil?shelf=read&amp;utm_medium=api&amp;utm_source=custom_widget">Emil&#39;s books</a>
+    </h2>
+      <div class="gr_custom_each_container_">
+          <div class="gr_custom_book_container_">
+            <a title="What I Talk About When I Talk About Running" rel="nofollow" href="https://www.goodreads.com/review/show/5534925354?utm_medium=api&amp;utm_source=custom_widget"><img alt="What I Talk About When I Talk About Running" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473397159l/2195464._SY75_.jpg" /></a>
+          </div>
+          <div class="gr_custom_rating_">
+            <span class=" staticStars notranslate" title="it was amazing"><img alt="it was amazing" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /></span>
+          </div>
+          <div class="gr_custom_title_">
+            <a rel="nofollow" href="https://www.goodreads.com/review/show/5534925354?utm_medium=api&amp;utm_source=custom_widget">What I Talk About When I Talk About Running</a>
+          </div>
+          <div class="gr_custom_author_">
+            by <a rel="nofollow" href="https://www.goodreads.com/author/show/3354.Haruki_Murakami">Haruki Murakami</a>
+          </div>
+          <div class="gr_custom_review_">
+            Quite inspiring to read about someone changing their lifestyle from smoking several packs of cigarettes a day to starting to run consistently for 30+ years. As a runner myself I appreciated to get an inside into how he thinks about runni...
+          </div>
+      </div>
+      <div class="gr_custom_each_container_">
+          <div class="gr_custom_book_container_">
+            <a title="Konsten att göra kaffe: vägen till den perfekta smaken" rel="nofollow" href="https://www.goodreads.com/review/show/5522117991?utm_medium=api&amp;utm_source=custom_widget"><img alt="Konsten att göra kaffe: vägen till den perfekta smaken" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514189405l/37670219._SX50_.jpg" /></a>
+          </div>
+          <div class="gr_custom_rating_">
+            <span class=" staticStars notranslate" title="really liked it"><img alt="really liked it" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /></span>
+          </div>
+          <div class="gr_custom_title_">
+            <a rel="nofollow" href="https://www.goodreads.com/review/show/5522117991?utm_medium=api&amp;utm_source=custom_widget">Konsten att göra kaffe: vägen till den perfekta smaken</a>
+          </div>
+          <div class="gr_custom_author_">
+            by <a rel="nofollow" href="https://www.goodreads.com/author/show/13850351.Lani_Kingston">Lani Kingston</a>
+          </div>
+          <div class="gr_custom_review_">
+            Trevlig bok med fina illustrationer. Rör alla områden runt kaffe från bönan och dess kemiska komposition till olika bryggmetoder på ett övergripande plan. Den här boken passar perfekt till den som vill ge en present till någon som är ber...
+          </div>
+      </div>
+      <div class="gr_custom_each_container_">
+          <div class="gr_custom_book_container_">
+            <a title="The Sting of the Wild" rel="nofollow" href="https://www.goodreads.com/review/show/5513544797?utm_medium=api&amp;utm_source=custom_widget"><img alt="The Sting of the Wild" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450040697l/27293395._SY75_.jpg" /></a>
+          </div>
+          <div class="gr_custom_rating_">
+            <span class=" staticStars notranslate" title="really liked it"><img alt="really liked it" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /></span>
+          </div>
+          <div class="gr_custom_title_">
+            <a rel="nofollow" href="https://www.goodreads.com/review/show/5513544797?utm_medium=api&amp;utm_source=custom_widget">The Sting of the Wild</a>
+          </div>
+          <div class="gr_custom_author_">
+            by <a rel="nofollow" href="https://www.goodreads.com/author/show/564810.Justin_O_Schmidt">Justin O. Schmidt</a>
+          </div>
+          <div class="gr_custom_review_">
+            I never thought I would read a book about insects, to my surprise it was super interesting.
+          </div>
+      </div>
+      <div class="gr_custom_each_container_">
+          <div class="gr_custom_book_container_">
+            <a title="Adventures in Memory: Exploring the Science and Secrets of Human Memory" rel="nofollow" href="https://www.goodreads.com/review/show/5496709837?utm_medium=api&amp;utm_source=custom_widget"><img alt="Adventures in Memory: Exploring the Science and Secrets of Human Memory" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530550069l/40694087._SX50_.jpg" /></a>
+          </div>
+          <div class="gr_custom_rating_">
+            <span class=" staticStars notranslate" title="liked it"><img alt="liked it" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /></span>
+          </div>
+          <div class="gr_custom_title_">
+            <a rel="nofollow" href="https://www.goodreads.com/review/show/5496709837?utm_medium=api&amp;utm_source=custom_widget">Adventures in Memory: Exploring the Science and Secrets of Human Memory</a>
+          </div>
+          <div class="gr_custom_author_">
+            by <a rel="nofollow" href="https://www.goodreads.com/author/show/7077384.Hilde_stby">Hilde Østby</a>
+          </div>
+          <div class="gr_custom_review_">
+            Mildly interesting, but there is no &quot;red thread&quot; throughout the book in my opinion, mostly a collection of stories.
+          </div>
+      </div>
+      <div class="gr_custom_each_container_">
+          <div class="gr_custom_book_container_">
+            <a title="The Wasp Factory" rel="nofollow" href="https://www.goodreads.com/review/show/5471751242?utm_medium=api&amp;utm_source=custom_widget"><img alt="The Wasp Factory" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434940562l/567678._SY75_.jpg" /></a>
+          </div>
+          <div class="gr_custom_rating_">
+            <span class=" staticStars notranslate" title="liked it"><img alt="liked it" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /></span>
+          </div>
+          <div class="gr_custom_title_">
+            <a rel="nofollow" href="https://www.goodreads.com/review/show/5471751242?utm_medium=api&amp;utm_source=custom_widget">The Wasp Factory</a>
+          </div>
+          <div class="gr_custom_author_">
+            by <a rel="nofollow" href="https://www.goodreads.com/author/show/7628.Iain_Banks">Iain Banks</a>
+          </div>
+          <div class="gr_custom_review_">
+            Quite the creepy story, but some parts are almost humourous since it's so bizarre. Overall it is very well written, but after reading it I didn't get the point of the book. There's a plot twist at the end that doesn't make sense to me, w...
+          </div>
+      </div>
+  <br style="clear: both"/>
+  <center>
+    <a rel="nofollow" href="https://www.goodreads.com/"><img alt="goodreads.com" style="border:0" src="https://s.gr-assets.com/images/widget/widget_logo.gif" /></a>
+  </center>
+  <noscript>
+    Share <a rel="nofollow" href="https://www.goodreads.com/">book reviews</a> and ratings with Emil, and even join a <a rel="nofollow" href="https://www.goodreads.com/group">book club</a> on Goodreads.
+  </noscript>
+  </div>
+
+      </div>
+      <script src="https://www.goodreads.com/review/custom_widget/58205284.Emil's%20bookshelf:%20read?cover_position=&cover_size=&num_books=5&order=&shelf=&sort=&widget_bg_transparent=" type="text/javascript" charset="utf-8"></script>
+
+   
+        <div class="challengePic">
+          <a rel="nofollow" href="https://www.goodreads.com/challenges/11633-2023-reading-challenge"><img alt="2023 Reading Challenge" style="float:left; margin-right: 10px; border: 0 none" src="https://images.gr-assets.com/challenges/1670887106p2/11633.jpg" /></a>
+        </div>
+      <div>
+        <a rel="nofollow" href="https://www.goodreads.com/user/show/58205284-emil">Emil</a> has
+             read 9 books toward
+             their goal of
+             24 books.
+      </div>
+      <div style="width: 100px; margin: 4px 5px 5px 0; float: left; border: 1px solid #382110; height: 8px; overflow: hidden; background-color: #FFF">
+        <div style="width: 37%; background-color: #D7D2C4; float: left"><span style="visibility:hidden">hide</span></div>
+      </div>
+      <div style="font-family: arial, verdana, helvetica, sans-serif;font-size:90%">
+        <a rel="nofollow" href="https://www.goodreads.com/user_challenges/39923402">9 of 24 (37%)</a>
+      </div>
+        <div style="text-align: right;">
+          <a style="text-decoration: none; font-size: 10px;" rel="nofollow" href="https://www.goodreads.com/user_challenges/39923402">view books</a>
+        </div>
+  </div>
+	<script src="https://www.goodreads.com/user_challenges/widget/58205284-emil?challenge_id=11633&v=2"></script>
+</div>
+
+
+   
         <div class="challengePic">
           <a rel="nofollow" href="https://www.goodreads.com/challenges/11650-2021-reading-challenge"><img alt="2021 Reading Challenge" style="float:left; margin-right: 10px; border: 0 none" src="https://images.gr-assets.com/challenges/1608245803p2/11650.jpg" /></a>
         </div>
